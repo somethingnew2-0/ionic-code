@@ -1039,9 +1039,9 @@
   ],
   "id":"nightly",
   "release_date":"2014-02-10",
-  "release_datetime":"2014-02-10 21:39:46",
-  "version_codename":"0.9.24-alpha-7322-13809-13288-6754-12323-4765",
-  "version_name":"0.9.24-alpha-7322-13809-13288-6754-12323-4765",
+  "release_datetime":"2014-02-10 21:45:1",
+  "version_codename":"0.9.24-alpha-7322-13809-13288-6754-12323-4765-7621-23150",
+  "version_name":"0.9.24-alpha-7322-13809-13288-6754-12323-4765-7621-23150",
   "version_number":"nightly"
  }
 ]

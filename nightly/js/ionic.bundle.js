@@ -23877,7 +23877,7 @@ angular.module('ui.router.compat')
  * Copyright 2014 Drifty Co.
  * http://drifty.com/
  *
- * Ionic, v0.9.24-alpha-7322-13809-13288-6754-12323-4765
+ * Ionic, v0.9.24-alpha-7322-13809-13288-6754-12323-4765-7621-23150
  * A powerful HTML5 mobile app framework.
  * http://ionicframework.com/
  *
@@ -23892,7 +23892,7 @@ angular.module('ui.router.compat')
 window.ionic = {
   controllers: {},
   views: {},
-  version: '0.9.24-alpha-7322-13809-13288-6754-12323-4765'
+  version: '0.9.24-alpha-7322-13809-13288-6754-12323-4765-7621-23150'
 };;
 (function(ionic) {
 
@@ -30675,7 +30675,7 @@ ionic.controllers.TabBarController = ionic.controllers.ViewController.inherit({
  * Copyright 2014 Drifty Co.
  * http://drifty.com/
  *
- * Ionic, v0.9.24-alpha-7322-13809-13288-6754-12323-4765
+ * Ionic, v0.9.24-alpha-7322-13809-13288-6754-12323-4765-7621-23150
  * A powerful HTML5 mobile app framework.
  * http://ionicframework.com/
  *
